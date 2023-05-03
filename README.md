@@ -8,7 +8,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winterflower)](https://solved.ac/winterflower/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseonkkim&&langs_count=6&layout=compact&bg_color=110,f5f7fa,c3cfe2&title_color=495057&hide=CMake,HTML,Swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseonkkim&&langs_count=6&layout=compact&bg_color=110,f5f7fa,c3cfe2&title_color=495057&hide=CMake,Makefile,HTML,Swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Languages and Tools:</h3>
 <p> 

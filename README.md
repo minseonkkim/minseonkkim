@@ -1,6 +1,6 @@
 <h3>Hi👋🏻, I'm Minseon Kim</h3>
 
-📚 Student majoring in Software Engineering at CNU
+📚 A junior developer studying in South Korea
 
 ✨ Interested in <b>Problem Solving, App Development</b>
 

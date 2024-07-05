@@ -1,6 +1,6 @@
 <h3>Hi👋🏻, I'm Minseon Kim</h3>
 
-📚 A junior developer studying in South Korea
+📚 A frontend developer studying in South Korea
 
 ✨ Interested in <b>Problem Solving, Web Development</b>
 

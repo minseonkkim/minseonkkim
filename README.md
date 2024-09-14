@@ -11,7 +11,7 @@
 
 <h2>📈Status📈</h2>
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winterflower">  -->
-<img src="https://github-readme-stats.vercel.app/api?username=minseonkkim&title_color=249225&bg_color=f8f9fa" alt="Github Status" style="height: 170px;">
+<img src="https://github-readme-stats.vercel.app/api?username=minseonkkim&title_color=5F8FD9&bg_color=f8f9fa" alt="Github Status" style="height: 210px;">
 
 <!--<h2>🛠Tech Stack🛠</h2>
 <div>
@@ -26,7 +26,8 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer"> -->
 <br/>
+<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonkkim%2Fhit-counter&count_bg=%23BFE1B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseonkkim%2Fhit-counter&count_bg=%235F8FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>

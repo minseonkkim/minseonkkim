@@ -6,7 +6,7 @@ I'm a growing frontend developer. 🌱
 <a href="https://winterflower.notion.site/Junior-Frontend-Developer-8c33e91b9b444a3a9a9d61f5a09affd5"><img src="https://img.shields.io/badge/resume-fefefe?style=appveyor"/></a>
 <a href="https://winterflower.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-001111?style=appveyor"/></a>
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/winterflower" width="600" height="300"/></a>
+<a href="https://solved.ac/profile/winterflower"><img src="https://api.solve-nyang.com/compose/winterflower" width="600" height="300"/></a>
 
 
 

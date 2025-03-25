@@ -1,4 +1,4 @@
-<h1>Hello Minseon's World🩷🤍</h1>
+<h1>Hello Minseon's World🩵🤍</h1>
 
 👋🏻 Hi there!<br/>
 I'm a growing frontend developer. 🌱
